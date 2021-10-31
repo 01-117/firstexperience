@@ -1,0 +1,4 @@
+ kisakenar= int(input("kisakenar girin"))
+ uzunkenar= int(input("uzunkenar girin"))
+ print(kisakenar+kisakenar+uzunkenar+uzunkenar)
+ print(kisakenar*uzunkenar)
